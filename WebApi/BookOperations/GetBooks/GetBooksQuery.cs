@@ -1,7 +1,9 @@
+using System.Linq;
 using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
 using WebApi.Common;
 using WebApi.DbOperations;
+using WebApi.Model;
 
 namespace WebApi.BookOperations.GetBooks
 {
