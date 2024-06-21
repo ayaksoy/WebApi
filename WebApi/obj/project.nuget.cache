@@ -1,15 +1,32 @@
 {
   "version": 2,
-  "dgSpecHash": "KwG7sLZ0n80=",
+  "dgSpecHash": "YPR1r84Cj9k=",
   "success": true,
-  "projectFilePath": "/Users/ahmet/Desktop/webApi-git/WebApiExample/WebApiExample.csproj",
+  "projectFilePath": "/Users/ahmet/Desktop/webApi-git/WebApi/WebApiExample.csproj",
   "expectedPackageFiles": [
+    "/Users/ahmet/.nuget/packages/automapper/11.0.1/automapper.11.0.1.nupkg.sha512",
+    "/Users/ahmet/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "/Users/ahmet/.nuget/packages/fluentvalidation/11.2.0/fluentvalidation.11.2.0.nupkg.sha512",
+    "/Users/ahmet/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/ahmet/.nuget/packages/microsoft.entityframeworkcore/7.0.0-preview.7.22376.2/microsoft.entityframeworkcore.7.0.0-preview.7.22376.2.nupkg.sha512",
+    "/Users/ahmet/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.0-preview.7.22376.2/microsoft.entityframeworkcore.abstractions.7.0.0-preview.7.22376.2.nupkg.sha512",
+    "/Users/ahmet/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.0-preview.7.22376.2/microsoft.entityframeworkcore.analyzers.7.0.0-preview.7.22376.2.nupkg.sha512",
+    "/Users/ahmet/.nuget/packages/microsoft.entityframeworkcore.inmemory/7.0.0-preview.7.22376.2/microsoft.entityframeworkcore.inmemory.7.0.0-preview.7.22376.2.nupkg.sha512",
     "/Users/ahmet/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/ahmet/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0-preview.7.22375.6/microsoft.extensions.caching.abstractions.7.0.0-preview.7.22375.6.nupkg.sha512",
+    "/Users/ahmet/.nuget/packages/microsoft.extensions.caching.memory/7.0.0-preview.7.22375.6/microsoft.extensions.caching.memory.7.0.0-preview.7.22375.6.nupkg.sha512",
+    "/Users/ahmet/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0-preview.7.22375.6/microsoft.extensions.dependencyinjection.7.0.0-preview.7.22375.6.nupkg.sha512",
+    "/Users/ahmet/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0-preview.7.22375.6/microsoft.extensions.dependencyinjection.abstractions.7.0.0-preview.7.22375.6.nupkg.sha512",
+    "/Users/ahmet/.nuget/packages/microsoft.extensions.logging/7.0.0-preview.7.22375.6/microsoft.extensions.logging.7.0.0-preview.7.22375.6.nupkg.sha512",
+    "/Users/ahmet/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0-preview.7.22375.6/microsoft.extensions.logging.abstractions.7.0.0-preview.7.22375.6.nupkg.sha512",
+    "/Users/ahmet/.nuget/packages/microsoft.extensions.options/7.0.0-preview.7.22375.6/microsoft.extensions.options.7.0.0-preview.7.22375.6.nupkg.sha512",
+    "/Users/ahmet/.nuget/packages/microsoft.extensions.primitives/7.0.0-preview.7.22375.6/microsoft.extensions.primitives.7.0.0-preview.7.22375.6.nupkg.sha512",
     "/Users/ahmet/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
     "/Users/ahmet/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "/Users/ahmet/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "/Users/ahmet/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
-    "/Users/ahmet/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+    "/Users/ahmet/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/Users/ahmet/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
