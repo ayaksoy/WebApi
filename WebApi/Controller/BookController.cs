@@ -10,7 +10,7 @@ using WebApi.DbOperations;
 using static WebApi.BookOperations.CrateBook.CreateBookCommand;
 using static WebApi.BookOperations.UpdateBook.UpdateBookCommand;
 
-namespace WebApi.AddControllers
+namespace WebApi.Controller
 {
     [ApiController]
     [Route("[controller]")]

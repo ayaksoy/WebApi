@@ -34,9 +34,9 @@
 /Users/ahmet/Desktop/webApi-git/WebApi/obj/Debug/net6.0/staticwebassets.build.json
 /Users/ahmet/Desktop/webApi-git/WebApi/obj/Debug/net6.0/staticwebassets.development.json
 /Users/ahmet/Desktop/webApi-git/WebApi/obj/Debug/net6.0/scopedcss/bundle/WebApiExample.styles.css
-/Users/ahmet/Desktop/webApi-git/WebApi/obj/Debug/net6.0/WebApiExample.csproj.CopyComplete
 /Users/ahmet/Desktop/webApi-git/WebApi/obj/Debug/net6.0/WebApiExample.dll
 /Users/ahmet/Desktop/webApi-git/WebApi/obj/Debug/net6.0/refint/WebApiExample.dll
 /Users/ahmet/Desktop/webApi-git/WebApi/obj/Debug/net6.0/WebApiExample.pdb
 /Users/ahmet/Desktop/webApi-git/WebApi/obj/Debug/net6.0/WebApiExample.genruntimeconfig.cache
 /Users/ahmet/Desktop/webApi-git/WebApi/obj/Debug/net6.0/ref/WebApiExample.dll
+/Users/ahmet/Desktop/webApi-git/WebApi/obj/Debug/net6.0/WebApiExample.csproj.CopyComplete
